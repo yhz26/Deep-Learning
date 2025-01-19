@@ -19,3 +19,8 @@
 | vit          |        88.0769 |
 
 tiny_voc需要将数据集下载解压后以data/tiny_voc存储
+
+## 说明
+每个文件夹中的model_xx.py中是对应的模型
+调用train.py会生成对应的模型checkpoint
+调用check.py汇总各个模型的最好的验证集准确度
