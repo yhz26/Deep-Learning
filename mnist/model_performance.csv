@@ -1,0 +1,5 @@
+model_name,val_accuracy
+lenet,97.96000000000001
+vgg16,99.06
+resnet18,99.07000000000001
+vit,97.38
