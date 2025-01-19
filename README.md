@@ -1,6 +1,6 @@
 # Deep-Learning
 
-## mnist model performance
+## mnist multi-class classification
 
 | model_name   |   val_accuracy |
 |:-------------|---------------:|
@@ -9,7 +9,7 @@
 | resnet18     |          99.07 |
 | vit          |          97.38 |
 
-## tiny_voc model performance
+## tiny_voc multi—label classification
 
 | model_name   |   val_accuracy |
 |:-------------|---------------:|
