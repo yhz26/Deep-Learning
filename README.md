@@ -9,7 +9,7 @@
 | resnet18     |          99.07 |
 | vit          |          97.38 |
 
-## tiny_voc multi—label classification
+## tiny_voc multi-label classification
 
 | model_name   |   val_accuracy |
 |:-------------|---------------:|
